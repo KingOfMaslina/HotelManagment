@@ -1,0 +1,81 @@
+F:\отель администрирование\obj\Debug\отель администрирование.csproj.AssemblyReference.cache
+F:\отель администрирование\obj\Debug\отель администрирование.csproj.SuggestedBindingRedirects.cache
+F:\отель администрирование\obj\Debug\отель администрирование.exe.config
+F:\отель администрирование\obj\Debug\отель_администрирование.Form1.resources
+F:\отель администрирование\obj\Debug\отель администрирование.csproj.GenerateResource.cache
+D:\отель администрирование\obj\Debug\отель администрирование.csproj.AssemblyReference.cache
+D:\отель администрирование\obj\Debug\отель администрирование.csproj.SuggestedBindingRedirects.cache
+D:\отель администрирование\obj\Debug\отель_администрирование.Form1.resources
+D:\отель администрирование\obj\Debug\отель администрирование.csproj.GenerateResource.cache
+D:\отель администрирование\bin\Debug\отель администрирование.exe.config
+D:\отель администрирование\bin\Debug\отель администрирование.exe
+D:\отель администрирование\bin\Debug\отель администрирование.pdb
+D:\отель администрирование\bin\Debug\Google.Protobuf.dll
+D:\отель администрирование\bin\Debug\ZstdNet.dll
+D:\отель администрирование\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\отель администрирование\bin\Debug\BouncyCastle.Crypto.dll
+D:\отель администрирование\bin\Debug\Ubiety.Dns.Core.dll
+D:\отель администрирование\bin\Debug\System.Memory.dll
+D:\отель администрирование\bin\Debug\System.Buffers.dll
+D:\отель администрирование\bin\Debug\K4os.Compression.LZ4.dll
+D:\отель администрирование\bin\Debug\K4os.Hash.xxHash.dll
+D:\отель администрирование\bin\Debug\MySql.Data.xml
+D:\отель администрирование\obj\Debug\отель администрирование.exe.config
+D:\отель администрирование\obj\Debug\отель_администрирование.Properties.Resources.resources
+D:\отель администрирование\obj\Debug\отель администрирование.csproj.CoreCompileInputs.cache
+D:\отель администрирование\obj\Debug\отель администрирование.csproj.CopyComplete
+D:\отель администрирование\obj\Debug\отель администрирование.exe
+D:\отель администрирование\obj\Debug\отель администрирование.pdb
+D:\отель администрирование\obj\Debug\отель_администрирование.MainForm.resources
+D:\отель администрирование\obj\Debug\отель_администрирование.GuestForm.resources
+D:\отель администрирование\obj\Debug\отель_администрирование.RoomForm.resources
+F:\отель администрирование\bin\Debug\отель администрирование.exe.config
+F:\отель администрирование\bin\Debug\отель администрирование.exe
+F:\отель администрирование\bin\Debug\отель администрирование.pdb
+F:\отель администрирование\bin\Debug\Google.Protobuf.dll
+F:\отель администрирование\bin\Debug\ZstdNet.dll
+F:\отель администрирование\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\отель администрирование\bin\Debug\BouncyCastle.Crypto.dll
+F:\отель администрирование\bin\Debug\Ubiety.Dns.Core.dll
+F:\отель администрирование\bin\Debug\System.Memory.dll
+F:\отель администрирование\bin\Debug\System.Buffers.dll
+F:\отель администрирование\bin\Debug\K4os.Compression.LZ4.dll
+F:\отель администрирование\bin\Debug\K4os.Hash.xxHash.dll
+F:\отель администрирование\bin\Debug\MySql.Data.xml
+F:\отель администрирование\obj\Debug\отель_администрирование.GuestForm.resources
+F:\отель администрирование\obj\Debug\отель_администрирование.MainForm.resources
+F:\отель администрирование\obj\Debug\отель_администрирование.Properties.Resources.resources
+F:\отель администрирование\obj\Debug\отель_администрирование.ReservationForm.resources
+F:\отель администрирование\obj\Debug\отель_администрирование.RoomForm.resources
+F:\отель администрирование\obj\Debug\отель администрирование.csproj.CoreCompileInputs.cache
+F:\отель администрирование\obj\Debug\отель администрирование.csproj.CopyComplete
+F:\отель администрирование\obj\Debug\отель администрирование.exe
+F:\отель администрирование\obj\Debug\отель администрирование.pdb
+D:\отель администрирование\obj\Debug\отель_администрирование.ReservationForm.resources
+E:\отель администрирование\bin\Debug\отель администрирование.exe.config
+E:\отель администрирование\bin\Debug\отель администрирование.exe
+E:\отель администрирование\bin\Debug\отель администрирование.pdb
+E:\отель администрирование\bin\Debug\Google.Protobuf.dll
+E:\отель администрирование\bin\Debug\ZstdNet.dll
+E:\отель администрирование\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\отель администрирование\bin\Debug\BouncyCastle.Crypto.dll
+E:\отель администрирование\bin\Debug\Ubiety.Dns.Core.dll
+E:\отель администрирование\bin\Debug\System.Memory.dll
+E:\отель администрирование\bin\Debug\System.Buffers.dll
+E:\отель администрирование\bin\Debug\K4os.Compression.LZ4.dll
+E:\отель администрирование\bin\Debug\K4os.Hash.xxHash.dll
+E:\отель администрирование\bin\Debug\MySql.Data.xml
+E:\отель администрирование\obj\Debug\отель администрирование.csproj.AssemblyReference.cache
+E:\отель администрирование\obj\Debug\отель администрирование.exe.config
+E:\отель администрирование\obj\Debug\отель_администрирование.Form1.resources
+E:\отель администрирование\obj\Debug\отель_администрирование.GuestForm.resources
+E:\отель администрирование\obj\Debug\отель_администрирование.MainForm.resources
+E:\отель администрирование\obj\Debug\отель_администрирование.Properties.Resources.resources
+E:\отель администрирование\obj\Debug\отель_администрирование.ReservationForm.resources
+E:\отель администрирование\obj\Debug\отель_администрирование.RoomForm.resources
+E:\отель администрирование\obj\Debug\отель администрирование.csproj.GenerateResource.cache
+E:\отель администрирование\obj\Debug\отель администрирование.csproj.CoreCompileInputs.cache
+E:\отель администрирование\obj\Debug\отель администрирование.csproj.CopyComplete
+E:\отель администрирование\obj\Debug\отель администрирование.exe
+E:\отель администрирование\obj\Debug\отель администрирование.pdb
+E:\отель администрирование\obj\Debug\отель администрирование.csproj.SuggestedBindingRedirects.cache
